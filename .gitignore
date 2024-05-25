@@ -1,0 +1,9 @@
+/data/books/*
+/data/essays/*
+/.env
+/data/chroma_db/*
+/data/to_parse/*
+/.streamlit/*
+*.toml
+*.env
+.idea/*
